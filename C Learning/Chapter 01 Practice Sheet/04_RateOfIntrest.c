@@ -12,4 +12,4 @@ int main()
     SI = (p * roi * t)/100 ;
     printf("Simple Intrest of \n Principal Amount %f , Rate %f And Time of %F Years Is = %lf ", p , roi , t  ,SI);
     return 0;
-};
+}; 
